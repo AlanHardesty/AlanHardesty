@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alan Hardesty 👋
 
-<!--
-**AlanHardesty/AlanHardesty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer | PowerShell & Python Enthusiast | 20+ Years Experience 
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Bachelor's in Electronic Engineering
+- 💼 Specializing in Azure, Microsoft 365, virtualization, systems automation, infrastructure, and scripting
+- 🌐 Building tools for efficiency in DevOps environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Skills
+- PowerShell Scripting
+- Python Development
+- Systems Administration
+- Git & Version Control
+
+### Featured Projects
+-coming soon-
+
+Connect with me on [LinkedIn](www.linkedin.com/in/alan-hardesty-51064343) or visit my [resume site](https://alanhardesty.info).
