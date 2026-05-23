@@ -9,9 +9,8 @@ Systems Engineer | PowerShell & Python Enthusiast | 20+ Years Experience
 
 ### Key Skills
 - PowerShell Scripting
-- Python Development
 - Systems Administration
-- Git & Version Control
+- Generative AI
 
 ### Featured Projects
 -coming soon-
